@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  News Explorer
+//
+//  Created by Mahir Shahriar Lipeng on 28/12/25.
+//
+
+API_KEY = ce31c9c12bf84a2686dea010ab4410cf
+BASE_URL = https:/newsapi.org
+
+APP_NAME = News Explorer (Dev)
+BUNDLE_ID_SUFFIX = .dev
